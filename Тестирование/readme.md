@@ -154,3 +154,4 @@ qune4q Update лекция.md
 5. нажать кнопку "="
 Ожидаемый результат: вывод "4"
 Наблюдаемый результат: вывод "5"
+![image](https://user-images.githubusercontent.com/97594123/218066500-1d4aee7c-a34a-4ac8-ac95-ec4d06184fb7.png)
