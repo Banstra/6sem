@@ -4,3 +4,4 @@
 ![Djzpth](https://user-images.githubusercontent.com/50214016/218010249-fea7630d-77ca-4167-8416-6c31e37d3423.jpg)
 ![image](https://user-images.githubusercontent.com/50214016/218010475-22849f05-65e9-4236-8f96-69f4b773d43f.png)
 
+создание аватара для VRChat и последкющая продажа на GumRoad
