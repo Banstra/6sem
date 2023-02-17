@@ -5,3 +5,4 @@
 ![image](https://user-images.githubusercontent.com/50214016/218010475-22849f05-65e9-4236-8f96-69f4b773d43f.png)
 
 создание аватара для VRChat и последкющая продажа на GumRoad
+![20230217_082150](https://user-images.githubusercontent.com/97594123/219571515-b186bc5d-1e28-49e9-b28d-40be47b07b05.jpg)
