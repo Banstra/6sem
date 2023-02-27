@@ -6,3 +6,6 @@
 
 создание аватара для VRChat и последкющая продажа на GumRoad
 ![20230217_082150](https://user-images.githubusercontent.com/97594123/219571515-b186bc5d-1e28-49e9-b28d-40be47b07b05.jpg)
+
+![Screenshot (404)](https://user-images.githubusercontent.com/97594123/221485202-0823dab9-76b1-472e-9f9c-0d541ee008d1.png)
+![Screenshot (403)](https://user-images.githubusercontent.com/97594123/221485210-23b08bee-0265-4698-9e1a-e7454092b04f.png)
