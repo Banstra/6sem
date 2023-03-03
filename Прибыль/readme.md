@@ -10,5 +10,5 @@
 ![Screenshot (404)](https://user-images.githubusercontent.com/97594123/221485202-0823dab9-76b1-472e-9f9c-0d541ee008d1.png)
 ![Screenshot (403)](https://user-images.githubusercontent.com/97594123/221485210-23b08bee-0265-4698-9e1a-e7454092b04f.png)
 ![photo_5469750558261887365_y](https://user-images.githubusercontent.com/97594123/221485312-67b1083f-7cf0-4a8d-84b9-973e1ac99579.jpg)
-https://app.gumroad.com/products/qoakp/edit
+https://banstra.gumroad.com/l/qoakp
 
